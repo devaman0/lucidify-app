@@ -19,7 +19,7 @@ const eslintConfig = [
     plugins: {
       'simple-import-sort': simpleImportSort,
       'unused-imports': unusedImports,
-      'prettier': prettier,
+      prettier: prettier,
     },
     rules: {
       'no-unused-vars': 'off', // Turning off ESLint's unused vars in favor of typescript's

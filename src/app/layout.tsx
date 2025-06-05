@@ -22,9 +22,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Hirelytics - AI Interview Platform for Modern Hiring',
+  title: 'Lucidify - AI Journaling & Mental Health Companion',
   description:
-    'Our AI-driven platform transforms the recruitment process from job posting to candidate selection. Automate interviews, analyze resumes, and make data-driven hiring decisions.',
+    'Lucidify empowers your mental wellness journey with explainable AI, guided journaling, and actionable insights. Reflect, grow, and understand yourself with clarity.',
   icons: {
     icon: [{ url: '/favicon.svg', type: 'image/svg+xml', sizes: 'any' }],
     apple: '/images/favicon.svg',
@@ -32,17 +32,17 @@ export const metadata: Metadata = {
   // manifest: "/manifest.json",
   // themeColor: "#0C4A6E",
   // openGraph: {
-  //   title: "Hirelytics - AI Interview Platform for Modern Hiring",
+  //   title: "Lucidify - AI Journaling & Mental Health Companion",
   //   description:
-  //     "Transform your hiring process with AI-powered interviews and candidate analysis",
-  //   images: ["/images/hirelytics-logo.svg"],
+  //     "Empower your mental health with explainable AI, guided journaling, and actionable insights.",
+  //   images: ["/images/lucidify-logo.svg"],
   // },
   // twitter: {
   //   card: "summary_large_image",
-  //   title: "Hirelytics - AI Interview Platform for Modern Hiring",
+  //   title: "Lucidify - AI Journaling & Mental Health Companion",
   //   description:
-  //     "Transform your hiring process with AI-powered interviews and candidate analysis",
-  //   images: ["/images/hirelytics-logo.svg"],
+  //     "Empower your mental health with explainable AI, guided journaling, and actionable insights.",
+  //   images: ["/images/lucidify-logo.svg"],
   // },
 };
 
