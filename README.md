@@ -1,6 +1,6 @@
-# Hirelytics - Advanced Recruitment Platform
+# Lucidify - Mental Health Journaling & XAI Companion
 
-A comprehensive recruitment and hiring platform built with Next.js 15 App Router, NextAuth v5, and MongoDB. This system supports three roles: admin, recruiter, and candidate, each with their own login, registration, and dashboard experiences. The platform features AI-powered interviews, real-time audio processing, and automated evaluation of candidates.
+A comprehensive mental health and journaling platform built with Next.js 15 App Router, NextAuth v5, and MongoDB. Lucidify supports multiple user roles, each with personalized experiences for reflection, growth, and wellness tracking. The platform features explainable AI (XAI) for guided journaling, actionable insights, and mental wellness support. Enjoy secure, private journaling with real-time feedback and clarity-driven analytics.
 
 ## Features
 
