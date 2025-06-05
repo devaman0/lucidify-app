@@ -160,6 +160,9 @@ importers:
       date-fns:
         specifier: ^4.1.0
         version: 4.1.0
+      dnd-kit:
+        specifier: ^0.0.2
+        version: 0.0.2
       embla-carousel-react:
         specifier: ^8.6.0
         version: 8.6.0(react@19.1.0)
@@ -256,6 +259,9 @@ importers:
       sonner:
         specifier: ^2.0.3
         version: 2.0.3(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      tailwind-animate:
+        specifier: ^0.2.10
+        version: 0.2.10
       tailwind-merge:
         specifier: ^3.2.0
         version: 3.2.0
@@ -4529,6 +4535,13 @@ packages:
         integrity: sha512-IayShXAgj/QMXgB0IWmKx+rOPuGMhqm5w6jvFxmVenXKIzRqTAAsbBPT3kWQeGANj3jGgvcvv4yK6SxqYmikgw==,
       }
 
+  dnd-kit@0.0.2:
+    resolution:
+      {
+        integrity: sha512-d8AYd6I7D2b5u882+QNVGw0slBAt851/LWZ2j/pU+onf5/TGEKXeb47sCyhPYKEAUXp4oLfvWfNCqfkU03R1lw==,
+      }
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
+
   doctrine@2.1.0:
     resolution:
       {
@@ -8021,6 +8034,12 @@ packages:
         integrity: sha512-2pR2ubZSV64f/vqm9eLPz/KOvR9Dm+Co/5ChLgeHl0yEDRc6h5hXHoxEQH8Y5Ljycozd3p1k5TTSVdzYGkPvLw==,
       }
     engines: { node: ^14.18.0 || >=16.0.0 }
+
+  tailwind-animate@0.2.10:
+    resolution:
+      {
+        integrity: sha512-9vczT78R9O7HIrydvGJNz4/19ogjSQSFlYpwleAxcxIT1m9pvAIGQr/+f6qG9sB5gq3JLB6IRKmw9RGJUrLeXQ==,
+      }
 
   tailwind-merge@3.2.0:
     resolution:
@@ -11531,6 +11550,8 @@ snapshots:
 
   diff-match-patch@1.0.5: {}
 
+  dnd-kit@0.0.2: {}
+
   doctrine@2.1.0:
     dependencies:
       esutils: 2.0.3
@@ -14033,6 +14054,8 @@ snapshots:
   synckit@0.11.6:
     dependencies:
       '@pkgr/core': 0.2.4
+
+  tailwind-animate@0.2.10: {}
 
   tailwind-merge@3.2.0: {}
 
